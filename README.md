@@ -6,4 +6,4 @@ Python is an interpreted, high-level, general-purpose programming language. Crea
 ![python image](images/python.jpg)
 
 ## Contents
-1. [Python Function Unpacking](notebook/Python_Function_Unpacking.ipynb)
+1. Python Function Unpacking [NOTEBOOK](notebook/Python_Function_Unpacking.ipynb) | [TUTORIAL](notebook/Python_Function_Unpacking.html)
