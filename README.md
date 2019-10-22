@@ -7,5 +7,11 @@ According to its creator, **Guido van Rossum**,
 
 ![python image](images/python.jpg)
 
+## The Basics
+### 1. Variables
+In Python, it is really easy to deFIne a variable and set a value to it. Imagine you want to store number `25` in a variable called `my_age` Let’s do it:
+
+`my_age=25`
+
 ## Contents
 1. Python Function Unpacking [NOTEBOOK](notebook/Python_Function_Unpacking.ipynb) | [TUTORIAL](notebook/Python_Function_Unpacking.html)
