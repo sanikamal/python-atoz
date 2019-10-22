@@ -13,5 +13,5 @@ In Python, it is really easy to deFIne a variable and set a value to it. Imagine
 
 `my_age=25`
 
-## Contents
+## Jupyter Notebook
 1. Python Function Unpacking [NOTEBOOK](notebook/Python_Function_Unpacking.ipynb) | [TUTORIAL](notebook/Python_Function_Unpacking.html)
