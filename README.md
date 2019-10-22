@@ -3,7 +3,8 @@ Python is an interpreted, high-level, general-purpose programming language. Crea
 
 According to its creator, **Guido van Rossum**,
 
-> Python is a high-level programming language, and its core design philosophy is all about code readability and a syntax which allowsprogrammers to express concepts in a few lines of code.
+> Python is a high-level programming language, and its core design philosophy is all about code readability and a syntax which allows programmers to express concepts in a few lines of code.
+
 ![python image](images/python.jpg)
 
 ## Contents
