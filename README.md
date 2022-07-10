@@ -7,7 +7,14 @@ According to its creator, **Guido van Rossum**,
 
 ![python image](images/python.jpg)
 
-## [Basics Notes](notes)
+## Contents
 
-## Jupyter Notebook
-1. Python Function Unpacking [NOTEBOOK](notebook/Python_Function_Unpacking.ipynb) | [TUTORIAL](notebook/Python_Function_Unpacking.html)
+### Jupyter Notebook
+1. [Python Function Unpacking](notebook/Python_Function_Unpacking.ipynb)
+2. [Useful Snippets](notebook/Useful_Python_Snippets.ipynb)
+3. [Regular Expressions](notebook/Python_Regular_Expressions.ipynb)
+4. [Sorting Algorithm](notebook/Sorting_algorithms_python.ipynb)
+
+
+### Mini Projects
+- [Mini Projects](mini-projects)
